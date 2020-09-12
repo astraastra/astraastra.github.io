@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: Coding Kids - Introducing coding, in a fun learning experience 
 permalink: /about/
 ---
-
-Coding Kids - Introducing coding, in a fun learning experience 
 
 Our mission is to teach kids to code by making art and anmiations. 
 
