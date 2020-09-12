@@ -31,12 +31,7 @@ permalink: /Demo/
             <li class="contact-li">
                 <label class="contact-label" for="name">School Location(City):</label>
                 <input type="text" placeholder="Enter the name of the city where the school is located" id="name" class="contact-input" name="name" tabindex="1"/>
-            </li>                    
-            <li class="contact-li">
-                <label class="contact-label" for="message">Message:</label>
-                <textarea class="contact-textarea" placeholder="Your message" class="contact-input" rows="4" id="message" name="message" tabindex="3"></textarea>
-            </li>
-            
+            </li>                         
         </ul>
         <input type="submit" value="Send" id="submit"/>
         <input type="hidden" name='redirect_to' value="http://blog.webjeda.com/thank-you/" />
