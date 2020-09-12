@@ -16,6 +16,10 @@ permalink: /contact/
                 <input type="email" placeholder="Your email" id="email" class="contact-input" name="email" tabindex="2"/>
             </li>
             <li class="contact-li">
+                <label class="contact-label" for="name">Name:</label>
+                <input type="text" placeholder="Your kid's name" id="name" class="contact-input" name="Kid's Name" tabindex="1"/>
+            </li>        
+            <li class="contact-li">
                 <label class="contact-label" for="message">Message:</label>
                 <textarea class="contact-textarea" placeholder="Your message" class="contact-input" rows="4" id="message" name="message" tabindex="3"></textarea>
             </li>
