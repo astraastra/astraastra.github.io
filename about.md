@@ -3,7 +3,7 @@ layout: page
 title: About 
 permalink: /about/
 ---
-***Our mission is to teach kids to code by making art and animations.***
+***My mission is to enable kids to learn to code through art and animations.***
 
 * Do they like to doodle? *We will teach them how to with code.* 
 
