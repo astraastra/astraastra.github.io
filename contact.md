@@ -28,7 +28,7 @@ permalink: /contact/
                 <input type="text" placeholder="Enter the name of the school your child is enrolled in" id="name" class="contact-input" name="name" tabindex="1"/>
             </li>  
             <li class="contact-li">
-                <label class="contact-label" for="name">School Location: City:</label>
+                <label class="contact-label" for="name">School Location(City):</label>
                 <input type="text" placeholder="Enter the name of the city where the school is located" id="name" class="contact-input" name="name" tabindex="1"/>
             </li>                    
             <li class="contact-li">
