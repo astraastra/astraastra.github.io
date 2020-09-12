@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 ## Code Planet - Kids learn to code. While having fun.
-
-_*Our mission is to teach kids to code by making art and animations.*_
+_________________
+***Our mission is to teach kids to code by making art and animations.***
 
 * Do they like to doodle? *We will teach them how to with code.* 
 * Do they like to play with bouncy ball. *We will teach them how to with code.* 
