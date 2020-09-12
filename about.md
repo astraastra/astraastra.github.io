@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Coding Kids - Introducing coding, in a fun learning experience 
+title: About 
 permalink: /about/
 ---
+
+## Code Planet - Kids learn coding while having fun!
 
 Our mission is to teach kids to code by making art and anmiations. 
 
