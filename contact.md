@@ -9,16 +9,28 @@ permalink: /contact/
         <ul class="contact-ul">
             <li class="contact-li">
                 <label class="contact-label" for="name">Name:</label>
-                <input type="text" placeholder="Your name" id="name" class="contact-input" name="name" tabindex="1"/>
+                <input type="text" placeholder="Enter your name" id="name" class="contact-input" name="name" tabindex="1"/>
             </li>
             <li class="contact-li">
                 <label class="contact-label" for="email">Email:</label>
-                <input type="email" placeholder="Your email" id="email" class="contact-input" name="email" tabindex="2"/>
+                <input type="email" placeholder="Enter your email" id="email" class="contact-input" name="email" tabindex="2"/>
             </li>
             <li class="contact-li">
-                <label class="contact-label" for="name">Name:</label>
-                <input type="text" placeholder="Your kid's name" id="name" class="contact-input" name="Kid's Name" tabindex="1"/>
-            </li>        
+                <label class="contact-label" for="name">Child's Name:</label>
+                <input type="text" placeholder="Enter your child's name" id="name" class="contact-input" name="name" tabindex="1"/>
+            </li>
+            <li class="contact-li">
+                <label class="contact-label" for="age">Child's Age:</label>
+                <input type="number" placeholder="Enter your child's age" id="age" class="contact-input" name="age" tabindex="1"/>
+            </li>                  
+            <li class="contact-li">
+                <label class="contact-label" for="name">Child's School Name:</label>
+                <input type="text" placeholder="Enter the name of the school your child is enrolled in" id="name" class="contact-input" name="name" tabindex="1"/>
+            </li>  
+            <li class="contact-li">
+                <label class="contact-label" for="name">School Location: City:</label>
+                <input type="text" placeholder="Enter the name of the city where the school is located" id="name" class="contact-input" name="name" tabindex="1"/>
+            </li>                    
             <li class="contact-li">
                 <label class="contact-label" for="message">Message:</label>
                 <textarea class="contact-textarea" placeholder="Your message" class="contact-input" rows="4" id="message" name="message" tabindex="3"></textarea>
